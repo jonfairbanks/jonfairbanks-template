@@ -1,6 +1,6 @@
 # My Node App
 
-![Docker+Node](resources/images/logo.jpg)
+![Docker+Node](resources/images/logo.png)
 
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/jonfairbanks/docker-node-app.svg)
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/jonfairbanks/docker-node-app.svg)
