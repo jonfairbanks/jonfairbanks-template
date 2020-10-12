@@ -1,6 +1,6 @@
 # My Node App
 
-![Docker+Node](https://raw.githubusercontent.com/jonfairbanks/docker-node-app/master/logo.jpg)
+![Docker+Node](resources/images/logo.jpg)
 
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/jonfairbanks/docker-node-app.svg)
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/jonfairbanks/docker-node-app.svg)
@@ -14,7 +14,7 @@
 
 - Regular Feature
 - [Feature as a Link](https://fairbanks.io/)
-- `Feature formatted as Code`
+- `Feature as Code`
 
 ### Docker
 
